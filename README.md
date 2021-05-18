@@ -16,3 +16,8 @@ javascript:document.querySelectorAll("video").forEach(video => {
         video.removeAttribute("disablePictureInPicture");
 })
 ```
+
+
+### Userscript 
+
+https://greasyfork.org/en/scripts/426660-remove-pip-disable-attributes
