@@ -18,6 +18,6 @@ javascript:document.querySelectorAll("video").forEach(video => {
 ```
 
 
-### Userscript 
+### Userscript alternative 
 
 https://greasyfork.org/en/scripts/426660-remove-pip-disable-attributes
